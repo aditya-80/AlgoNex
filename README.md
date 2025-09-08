@@ -1,3 +1,33 @@
+# ⚡ AlgoNex – Algorithm Explorer in C++
+
+AlgoNex is a **C++ project** that demonstrates the implementation of multiple classic algorithms and problem-solving techniques.  
+It covers **priority queues, greedy algorithms, graph algorithms, and backtracking** — making it a great reference for learning and practicing Data Structures and Algorithms (DSA).
+
+---
+
+## 🚀 Features
+- **Task Scheduling (Priority Queue)**  
+  Uses a max-priority queue to process tasks based on priority.  
+
+- **Resource Allocation (Greedy / Fractional Knapsack-like)**  
+  Allocates resources to maximize value within a given capacity constraint.  
+
+- **Pathfinding (Dijkstra’s Algorithm)**  
+  Finds the shortest path from a source node to all other nodes in a weighted graph.  
+
+- **N-Queens Solver (Backtracking)**  
+  Solves the classic N-Queens problem for an `N x N` chessboard and prints one valid solution.
+
+---
+
+## 🛠️ Technologies Used
+- **C++ Standard Library**
+- **STL containers**: `vector`, `priority_queue`, `queue`
+- **Algorithms**: Sorting, Greedy Strategy, Backtracking, Graph Traversal
+
+---
+
+
 The AlgoNex project has four main components, each focusing on solving real-world problems using different data structures and algorithms.
 
 1. Task Scheduling:
